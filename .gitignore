@@ -1,0 +1,15 @@
+.vscode
+*.o
+*.a
+
+Project_1/bitops
+Project_1/stack
+Project_1/threads
+
+Project_3/benchmark/mtest
+Project_3/benchmark/test
+
+Project_4/benchmark/simple_test
+Project_4/benchmark/test_case
+Project_4/DISKFILE
+Project_4/rufs
